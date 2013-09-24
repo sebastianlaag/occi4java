@@ -4,5 +4,5 @@ jdk:
   - openjdk7
   - openjdk6
 env:
-  - FOO=foo BAR=bar
-  - FOO=bar BAR=foo
+  - webserver=tomcat
+  - webserver=jetty
